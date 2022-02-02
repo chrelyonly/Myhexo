@@ -1,0 +1,42 @@
+- class_name: 友情链接
+  class_desc: 感谢自己,和各位大佬~爱你们mua~
+  link_list:
+    - name: 是吃草莓的小白兔呀
+      link: https://chrelyonly.cn/
+      avatar: https://chrelyonly.cn/src/img/avatar.png
+      descr: 嘻嘻!~
+    - name: HCLonely
+      link: https://blog.hclonely.com/
+      avatar: https://cdn.jsdelivr.net/gh/HCLonely/blog.hclonely.com@latest/img/avatar.jpg
+      descr: 一个懒人的博客
+    - name: 一叶知秋
+      link: https://leafz.cn/
+      avatar: https://cdn.jsdelivr.net/gh/leafmoes/leafmoes-cdn/conf-img/leafmoes.jpg
+      descr: 秋至叶始落，叶落方知秋。
+    - name: Yrani - 依然
+      link: https://yrani.gitee.io/
+      avatar: https://cdn.jsdelivr.net/gh/Yrani6/cdn/img/mao.jpg
+      descr: 月暂晦，星常明。
+    - name: LISIR
+      link: https://lisir.me/
+      avatar: https://unpkg.zhimg.com/wkwbk-img@1.0.1/imgs/avatar.png
+      descr: I am ordinary yet unique.
+    - name: Reverse
+      link: https://c12th.gitee.io
+      avatar: https://wx1.sinaimg.cn/large/0084fJ63gy1gfafdphajbg30dw0dw4qt.gif
+      descr: 留个爪
+- class_name: 网站
+  class_desc: 值得推荐的网站
+  link_list:
+    - name: Youtube
+      link: https://www.youtube.com/
+      avatar: https://i.loli.net/2020/05/14/9ZkGg8v3azHJfM1.png
+      descr: 视频网站
+    - name: Weibo
+      link: https://www.weibo.com/
+      avatar: https://i.loli.net/2020/05/14/TLJBum386vcnI1P.png
+      descr: 中国最大社交分享平台
+    - name: Twitter
+      link: https://twitter.com/
+      avatar: https://i.loli.net/2020/05/14/5VyHPQqR6LWF39a.png
+      descr: 社交分享平台

@@ -1,0 +1,47 @@
+/* 这里存放我自定义修改的css */
+/* 修改默认的全部属性 */
+/* 顶部居中 */
+#blog_name{
+  display: none;
+}
+#menus{
+  margin: 0 auto;
+}
+/* 隐藏头部图片 */
+#page-header{
+  background-image: none;
+  background-color: transparent;
+}
+/* 隐藏底部图片 */
+#footer{
+  background-image: none;
+  background-color: transparent;
+}
+/* 圆润化评论区 */
+.vcontent{
+  padding: 10px;
+  border-radius: 10px;
+  box-shadow: 1px 2px 5px 1px rgba(0,0,0,0.2);
+  margin: 0 auto;
+  width: 95%;
+}
+/* 圆润化评论区 */
+.vcontent:hover{
+  box-shadow: 4px 4px 4px 4px rgba(204, 52, 52, 0.2);
+}
+/* 修改valine评论标签颜色 */
+/* 是我呀 */
+#masters{
+  background-color: #ffa51e;
+  color: #ffffff;
+}
+/* 是我呀 */
+#friends{
+  background-color: #65C6FF;
+  color: #ffffff;
+}
+/* 是我呀 */
+#stranger{
+  background-color: #bebab3;
+  color: #ffffff;
+}
