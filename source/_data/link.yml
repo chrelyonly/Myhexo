@@ -23,8 +23,28 @@
       descr: I am ordinary yet unique.
     - name: Reverse
       link: https://c12th.gitee.io
-      avatar: https://wx1.sinaimg.cn/large/0084fJ63gy1gfafdphajbg30dw0dw4qt.gif
+      avatar: https://c12th.gitee.io/img/01.gif
       descr: 留个爪
+    - name: ZIMO6918 の Blog
+      link: https://blog.zimo6918.cn/#/
+      avatar: https://www.zimo6918.cn/assets/IMG/%E5%A4%B4%E5%83%8F.png
+      descr: ZIMO6918 的博客哦～
+    - name: Today’s blog
+      link: https://yesright.cn/
+      avatar: https://img.yesright.cn/2022/02/14/801aa99a58f3d.png
+      descr: 雪落无痕，雁过留声
+    - name: 小破团网
+      link: https://www.odirect.cn/
+      avatar: https://cdn.odirect.cn/onedirimg/avatar.jpg
+      descr: You can you do, No can no bb!
+    - name: 陈明留
+      link: https://imold.wang
+      avatar: https://up.imold.wang/2022/02/20220216083339491.jpg
+      descr: 去你的 Java
+    - name: RXS
+      link: https://rxhsk.xicp.fun
+      avatar: https://rxhsk.xicp.fun/img/avatar.png
+      descr:
 - class_name: 网站
   class_desc: 值得推荐的网站
   link_list:

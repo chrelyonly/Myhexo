@@ -35,8 +35,9 @@ mathJax:!1,emojiCDN:"",emojiMaps:void 0,enableQQ:!1,requiredFields:[]},t.default
 var $=function(t,n,r){
 	let temptel;
 	let friendS = e.cfg.friendS
+	let masterS = e.cfg.masterS
 	friendS = friendS.split(",")
-	if(t.get("mail") == "1172576293@qq.com"){
+	if(t.get("mail") == masterS){
 		temptel = "<span class='vsys masters' id='masters'>是我呀❤(●'◡'●)"
 	}else{
 		for (let indexS = 0; indexS < friendS.length; indexS++) {

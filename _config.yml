@@ -141,3 +141,7 @@ deploy:
     github: https://github.com/chrelyonly/chrelyonly.github.io/
     vercel: https://github.com/chrelyonly/vercel
   branch: master
+# 搜索插件
+search:
+  path: search.xml
+  field: post

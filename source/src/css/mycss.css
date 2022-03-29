@@ -1,12 +1,20 @@
 /* 这里存放我自定义修改的css */
 /* 修改默认的全部属性 */
+
+
 /* 顶部居中 */
-#blog_name{
+/* #blog_name{
   display: none;
 }
 #menus{
   margin: 0 auto;
 }
+#nav .menus_items .menus_item{
+ padding: 0 0 0 10px;
+}
+.layout{
+   max-width:1200px
+} */
 /* 隐藏头部图片 */
 #page-header{
   background-image: none;
@@ -30,18 +38,132 @@
   box-shadow: 4px 4px 4px 4px rgba(204, 52, 52, 0.2);
 }
 /* 修改valine评论标签颜色 */
-/* 是我呀 */
+/* 主人 */
 #masters{
   background-color: #ffa51e;
   color: #ffffff;
 }
-/* 是我呀 */
+/* 朋友 */
 #friends{
   background-color: #65C6FF;
   color: #ffffff;
 }
-/* 是我呀 */
+/* 陌生人 */
 #stranger{
   background-color: #bebab3;
   color: #ffffff;
+}
+/* 修改菜单栏图标颜色 */
+.site-page .fa-search{
+  color: #5bd88f;
+}
+/* 首页 */
+.site-page .fa-home{
+  color: #66CCCC;
+}
+/* 档案 */
+.site-page .fa-archive{
+  color: #CCFF66;
+}
+/* 标签 */
+.site-page .fa-tags{
+  color: #FF99CC;
+}
+/* 分类 */
+.site-page .fa-folder-open{
+  color: #FF9999;
+}
+/* 友情链接 */
+.site-page .fa-link{
+  color: #FFCC99;
+}
+/* 相册 */
+.site-page .fa-window-maximize{
+  color: #FF6666;
+}
+/* 留言板 */
+.site-page .fa-heart{
+  color: #ff0303;
+}
+/* 读书 */
+.site-page .fa-book{
+  color: #FFFF66;
+}
+/* 游戏 */
+.site-page .fa-gamepad{
+  color: #666699;
+}
+/* 微语 */
+.site-page .fa-gamepad{
+  color: #FF9999;
+}
+/* 清单 */
+.site-page .fa-list{
+  color: #99CC33;
+}
+/* 音乐 */
+.site-page .fa-music{
+  color: #FFCC00;
+}
+/* 电影 */
+.site-page .fa-film{
+  color: #FF9900;
+}
+/* #rightside_config{
+  background-color: #5bd88f;
+}
+
+#rightside_config{
+  background-color: #5bd88f;
+}
+
+#rightside > div > #translateLink{
+  background-color: #5bd88f;
+}
+#rightside > div > #darkmode{
+  background-color: #5bd88f;
+}
+#rightside > div > #hide-aside-btn{
+  background-color: #5bd88f;
+}
+#rightside > div > #rightside_config{
+  background-color: #5bd88f;
+}
+#rightside > div > #go-up{
+  background-color: #5bd88f;
+}
+#rightside > div > button:hover{
+  background-color: #12ee6e;
+} */
+/* 新增标题栏右边按钮排版 */
+#top_right{
+  margin-left: 10px;
+  flex: 1;
+  display: flex;
+}
+/* 搜索按钮 */
+#top_right > #search-button{
+  /* flex: 1; */
+  text-align: right;
+  margin-right: 15px;
+
+}
+/* 切换按钮 */
+#top_right > #swith-button{
+  flex: 1;
+  text-align: left;
+
+}
+/* 优化搜索大小 */
+#search-button > .site-page{
+  font-size: 20px;
+}
+/* 优化切换大小 */
+#swith-button > .site-page{
+  font-size: 20px;
+}
+/* 调整左边菜单回家按钮 */
+#blog_name{
+  text-align: right;
+  margin-right: 10px;
 }

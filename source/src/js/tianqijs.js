@@ -1,12 +1,12 @@
 WIDGET = {
     "CONFIG": {
       "modules": "01234",
-      "background": "1",
-      "tmpColor": "FFFFFF",
+      "background": "5",
+      "tmpColor": "70FFFF",
       "tmpSize": "16",
-      "cityColor": "FFFFFF",
+      "cityColor": "91FF69",
       "citySize": "16",
-      "aqiColor": "FFFFFF",
+      "aqiColor": "#FF00FF",
       "aqiSize": "16",
       "weatherIconSize": "24",
       "alertIconSize": "18",
