@@ -307,18 +307,18 @@ livere:
 # gitalk
 # https://github.com/gitalk/gitalk
 gitalk:
-  client_id: 41f7564314acf05c2937
-  client_secret: d4a632cd040751c99733389786f42f807a75def3
-  repo: chrelyonly-Gitalk.github.io
-  owner: chrelyonly
-  admin: chrelyonly
+  client_id: 41f756431c2937
+  client_secret: d4a632cd01c9733389786f42f807a75def3
+  repo: chrelyonlal.github.io
+  owner: chrelyly
+  admin: chrelnly
   option:
 
 # valine
 # https://valine.js.org
 valine:
-  appId: yT6JGpmRszIr0QQuX52rAH0Q-gzGzoHsz
-  appKey: bGzFSFBPvbYlbT8F2ztclshT
+  appId: yT6JGpmRIr0QQuX52rAH0Q-gzGzoHsz
+  appKey: bGzFSFBPvbbT8F2ztclshT
   avatar: monsterid # gravatar style https://valine.js.org/#/avatar
   serverURLs: # This configuration is suitable for domestic custom domain name users, overseas version will be automatically detected (no need to manually fill in)
   bg: /src/img/comment_bg.png
