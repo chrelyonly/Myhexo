@@ -1,0 +1,4 @@
+# welcome to : www.zhyong.cn 
+User-agent: *
+Allow: /
+Sitemap: https://www.chrelyonly.cn/sitemap.xml

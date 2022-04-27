@@ -145,3 +145,8 @@ deploy:
 search:
   path: search.xml
   field: post
+  # rss
+feed:
+  type: atom
+  path: atom.xml
+  limit: 20
